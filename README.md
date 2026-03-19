@@ -4,7 +4,7 @@
 
 This is a game console I build as a gift for the 18th birthday of a friend, originally as hardware to play [Smash Simon](https://github.com/L-S-2020/smash-simon) a game I've made together with some friends, but it can do way more ;).
 It was build from an old laptop with a custom designed case und runs Batocera, an linux based emulation OS [(batocera.org)](https://batocera.org/).
-You can find it cad design of the case on onshape: https://cad.onshape.com/documents/7560239f6fe17c7d4cf64598/w/8a47a09bccb38b5e09941efb/e/0df3d87badd881ae933a3c0b?renderMode=0&uiState=69bc1c57a74a9b97d9475947
+You can find the cad design of the case on onshape: https://cad.onshape.com/documents/7560239f6fe17c7d4cf64598/w/8a47a09bccb38b5e09941efb/e/0df3d87badd881ae933a3c0b?renderMode=0&uiState=69bc1c57a74a9b97d9475947
 
 # Features
 - Runs Batocera (you can play many kinds of games)
